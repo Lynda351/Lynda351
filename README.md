@@ -1,7 +1,6 @@
 -Hello wrld :), I’m @Lynda351
 - 👀 I’m interested in always learning new thechnological advances
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me : lyndabazzi122@gmail.com
+- 📫 How to reach me : lyndabazziz.it@gmail.com
 
 <!---
 Lynda351/Lynda351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
